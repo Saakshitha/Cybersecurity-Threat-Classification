@@ -18,7 +18,7 @@ Ensure the following are installed on your system:
 ## Files Included
 1. Cybersecurity_Threat_Classification.ipynb: The Jupyter Notebook containing all the code for preprocessing, feature selection, model training, evaluation, and visualization.
 2. Report.docx: A professional report summarizing findings, methodology, and results.
-3. sampled_data.csv and TestbedSatJun12Flows.csv: Example datasets used in the project.
+3. sampled_data.csv : Example dataset used in the project.
 4. README.md: This file, explaining how to run the code and understand the outputs.
 
 ## How to Run the Code
@@ -27,7 +27,7 @@ Follow the steps below to execute the project:
 ### 1. Clone the Repository
 If this project is hosted on a repository, clone or download it to your local system:
 ```bash
-git clone <repository-link>
+git clone <https://github.com/Saakshitha/Cybersecurity-Threat-Classification>
 cd Cybersecurity_Threat_Classification
 ```
 
@@ -43,7 +43,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost
 ```
 
 ### 3. Load the Dataset
-- Use the provided `sampled_data.csv` or `TestbedSatJun12Flows.csv` as the dataset.
+- Use the provided `sampled_data.csv` as the dataset.
 - Ensure the file path in the notebook matches your local file structure.
 
 ### 4. Run the Jupyter Notebook
